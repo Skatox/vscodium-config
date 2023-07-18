@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Ayu Light Bordered",
+	"workbench.sideBar.location": "right",
+    "editor.fontSize": 18,
+	"editor.minimap.enabled": false,
+	"editor.scrollbar.vertical": "hidden",
+	"editor.overviewRulerBorder": false,
+	"editor.hideCursorInOverviewRuler": true,
+    "vim.easymotion": true,
+    "vim.leader": " ",
+	"vim.useCtrlKeys": true,
+    "files.associations": {
+        ".env*": "dotenv"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "keyword.other.dotenv",
+                "settings": {
+                    "foreground": "#FF000000"
+                }
+            }
+        ]
+    },
+    "vscode-neovim.mouseSelectionStartVisualMode": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Fira Sans Mono', 'monospace', monospace",
+    "npm.enableRunFromFolder": true,
+    "npm.scriptExplorerAction": "run",
+    "editor.lineNumbers": "relative",
+    "search.showLineNumbers": true
+}
