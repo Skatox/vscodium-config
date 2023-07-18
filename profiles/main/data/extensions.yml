@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
 enabled:
   - id: asvetliakov.vscode-neovim
     uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
@@ -18,8 +20,6 @@ enabled:
     uuid: ca0094fa-0dc7-4847-ae5d-879442c099ca
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
-  - id: ritwickdey.LiveServer
-    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
   - id: ruakr.ftp-kr
     uuid: b825a3e7-4bf5-4ead-a84e-398896c659f8
   - id: spook.easysass

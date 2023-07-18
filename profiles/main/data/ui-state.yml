@@ -42,7 +42,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.sync\",\"isBuiltin\
   \":false},{\"id\":\"workbench.view.editSessions\",\"isBuiltin\":false}]"
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["php",true],["markdown",true],["json",true],["plaintext",true],["yaml",true],["vue",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["php",true],["markdown",true],["json",true],["yaml",true],["jsonc",true],["vue",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"npmScripts","isHidden":false},{"id":"ftpkr.explorer","isHidden":false}]'
 workbench.grid.size: '{"height":769,"width":1025}'
 workbench.panel.alignment: center
@@ -65,7 +65,7 @@ workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","is
 workbench.view.extension.dotenv.state.hidden: '[{"id":"dotenv.view.vault","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "14"
+workbench.views.extensions.installed.size: "18"
 workbench.welcomePage.extensionMetadata.github.copilot: '{"title":"GitHub
   Copilot","description":"Your AI pair
   programmer","imagePath":"https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.96.255/1689176128737/Microsoft.VisualStudio.Services.Icons.Default","date":1689460494832}'
