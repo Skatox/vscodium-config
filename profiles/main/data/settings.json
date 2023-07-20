@@ -1,7 +1,6 @@
 {
-    "workbench.colorTheme": "Ayu Light Bordered",
-	"workbench.sideBar.location": "right",
-    "editor.fontSize": 18,
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 15,
 	"editor.minimap.enabled": false,
 	"editor.scrollbar.vertical": "hidden",
 	"editor.overviewRulerBorder": false,
@@ -10,7 +9,8 @@
     "vim.leader": " ",
 	"vim.useCtrlKeys": true,
     "files.associations": {
-        ".env*": "dotenv"
+        ".env*": "dotenv",
+        "*.module": "php"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
@@ -24,9 +24,15 @@
     },
     "vscode-neovim.mouseSelectionStartVisualMode": true,
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "'Fira Sans Mono', 'monospace', monospace",
+    "editor.fontFamily": "'JetBrains Mono','Fira Sans Mono', 'monospace', monospace",
     "npm.enableRunFromFolder": true,
     "npm.scriptExplorerAction": "run",
     "editor.lineNumbers": "relative",
-    "search.showLineNumbers": true
+    "search.showLineNumbers": true,
+    "workbench.colorTheme": "Ayu Light Bordered",
+    "vim.enableNeovim": true,
+    "window.zoomLevel": 1,
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    }
 }
