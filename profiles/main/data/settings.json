@@ -34,5 +34,6 @@
     "window.zoomLevel": 1,
     "terminal.integrated.env.osx": {
         "FIG_NEW_SESSION": "1"
-    }
+    },
+    "php-cs-fixer.executablePath": "/opt/homebrew/bin/php-cs-fixer"
 }

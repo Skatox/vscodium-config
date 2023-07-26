@@ -29,6 +29,8 @@ enabled:
     uuid: a439d61f-cd9c-453f-b8c7-186f73d44915
   - id: MehediDracula.php-namespace-resolver
     uuid: 651dce1f-eda8-4a5b-aa26-0d1266de8ed1
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-vscode.sublime-keybindings
