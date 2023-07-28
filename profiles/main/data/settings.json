@@ -31,7 +31,6 @@
     "search.showLineNumbers": true,
     "workbench.colorTheme": "Ayu Light Bordered",
     "vim.enableNeovim": true,
-    "window.zoomLevel": 1,
     "terminal.integrated.env.osx": {
         "FIG_NEW_SESSION": "1"
     },
