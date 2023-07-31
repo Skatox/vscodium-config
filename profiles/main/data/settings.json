@@ -34,5 +34,11 @@
     "terminal.integrated.env.osx": {
         "FIG_NEW_SESSION": "1"
     },
-    "php-cs-fixer.executablePath": "/opt/homebrew/bin/php-cs-fixer"
+    "php-cs-fixer.executablePath": "/opt/homebrew/bin/php-cs-fixer",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }

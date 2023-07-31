@@ -25,6 +25,8 @@ enabled:
     uuid: 5e69f001-f945-4c97-baf0-320d82a153b3
   - id: formulahendry.auto-close-tag
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: hollowtree.vue-snippets
     uuid: 3620b114-6fe8-459b-8c68-99943147069b
   - id: ikappas.phpcs
