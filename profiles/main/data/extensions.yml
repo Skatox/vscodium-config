@@ -2,10 +2,12 @@ builtin:
   disabled:
     - vscode.php-language-features
 disabled:
-  - id: asvetliakov.vscode-neovim
-    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
+  - id: arzg.xcode-theme
+    uuid: a07aad4f-db9e-400d-8eaf-2f5b1dcc6171
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
 enabled:
@@ -15,8 +17,6 @@ enabled:
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
   - id: arturock.gitstash
     uuid: c6f98943-7f9b-4776-b2a8-409227a481e2
-  - id: arzg.xcode-theme
-    uuid: a07aad4f-db9e-400d-8eaf-2f5b1dcc6171
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: christian-kohler.npm-intellisense
@@ -30,7 +30,7 @@ enabled:
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: Equinusocio.vsc-community-material-theme
-    uuid: bf8aa94a-4051-42fe-9bd1-2becad466fe7
+    uuid: 484d897a-6711-403c-ab54-a96f12be5833
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: firefox-devtools.vscode-firefox-debug
@@ -39,8 +39,6 @@ enabled:
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: gamunu.vscode-yarn
     uuid: 020e14e4-3f0d-41d4-901d-4d28c9775544
-  - id: GitHub.copilot
-    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: hollowtree.vue-snippets
     uuid: 3620b114-6fe8-459b-8c68-99943147069b
   - id: junstyle.php-cs-fixer
@@ -79,8 +77,6 @@ enabled:
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: Vue.volar
     uuid: a5223b43-8621-4351-a14e-3d560f85f277
-  - id: withfig.fig
-    uuid: null
   - id: xdebug.php-debug
     uuid: 044b4b31-2969-4af3-895d-855433b8b46d
   - id: xdebug.php-pack
@@ -88,4 +84,4 @@ enabled:
   - id: zobo.php-intellisense
     uuid: 3eddb68d-a5dd-43fb-be03-6f508d98fe97
   - id: zokugun.cron-tasks
-    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
