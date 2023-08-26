@@ -1,44 +1,60 @@
 {
-    "workbench.sideBar.location": "right",
-    "editor.fontSize": 15,
-	"editor.minimap.enabled": false,
-	"editor.scrollbar.vertical": "hidden",
-	"editor.overviewRulerBorder": false,
-	"editor.hideCursorInOverviewRuler": true,
-    "vim.easymotion": true,
-    "vim.leader": " ",
-	"vim.useCtrlKeys": true,
-    "files.associations": {
-        ".env*": "dotenv",
-        "*.module": "php"
-    },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "keyword.other.dotenv",
-                "settings": {
-                    "foreground": "#FF000000"
-                }
-            }
-        ]
-    },
-    "vscode-neovim.mouseSelectionStartVisualMode": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "'JetBrains Mono','Fira Sans Mono', 'monospace', monospace",
-    "npm.enableRunFromFolder": true,
-    "npm.scriptExplorerAction": "run",
-    "editor.lineNumbers": "relative",
-    "search.showLineNumbers": true,
-    "workbench.colorTheme": "Ayu Light Bordered",
-    "vim.enableNeovim": true,
-    "terminal.integrated.env.osx": {
-        "FIG_NEW_SESSION": "1"
-    },
-    "php-cs-fixer.executablePath": "/opt/homebrew/bin/php-cs-fixer",
-    "github.copilot.enable": {
-        "*": true,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
-    }
+  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "'JetBrains Mono','Fira Sans Mono', 'monospace', monospace",
+  "editor.fontSize": 15,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineNumbers": "relative",
+  "editor.minimap.enabled": false,
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000"
+        }
+      }
+    ]
+  },
+  "files.associations": {
+    "*.module": "php",
+    ".env*": "dotenv"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": false,
+    "plaintext": false,
+    "scminput": false
+  },
+  "npm.enableRunFromFolder": true,
+  "npm.scriptExplorerAction": "run",
+  "php-cs-fixer.executablePath": "/opt/homebrew/bin/php-cs-fixer",
+  "search.showLineNumbers": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "vim.easymotion": true,
+  "vim.enableNeovim": true,
+  "vim.leader": "  ",
+  "vim.useCtrlKeys": true,
+  "vscode-neovim.mouseSelectionStartVisualMode": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "window.zoomLevel": 2,
+  "vim.autoindent": false,
+  "vim.camelCaseMotion.enable": true,
+  "workbench.colorTheme": "Ayu Light Bordered",
+  "explorer.autoRevealExclude": {
+    "**/node_modules": false
+  },
+  "scm.inputFontSize": 15,
+  "debug.console.fontSize": 14,
+  "markdown.preview.fontSize": 15,
+  "terminal.integrated.fontSize": 14,
+  "chat.editor.fontSize": 14,
+  "jest.autoRevealOutput": "on-exec-error",
+  "jest.autoRun": {},
+  "vim.highlightedyank.enable": true
 }
