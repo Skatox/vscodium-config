@@ -35,17 +35,13 @@
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
-  "vim.easymotion": true,
   "vim.enableNeovim": true,
-  "vim.leader": "  ",
+  "vim.leader": " ",
   "vim.useCtrlKeys": true,
   "vscode-neovim.mouseSelectionStartVisualMode": true,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
-  "window.zoomLevel": 2,
-  "vim.autoindent": false,
-  "vim.camelCaseMotion.enable": true,
-  "workbench.colorTheme": "Ayu Light Bordered",
+  "workbench.colorTheme": "One Monokai (Light)",
   "explorer.autoRevealExclude": {
     "**/node_modules": false
   },
@@ -56,5 +52,17 @@
   "chat.editor.fontSize": 14,
   "jest.autoRevealOutput": "on-exec-error",
   "jest.autoRun": {},
-  "vim.highlightedyank.enable": true
+  "vim.highlightedyank.enable": true,
+  "window.zoomLevel": 2,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "vim.autoSwitchInputMethod.enable": true,
+  "git.suggestSmartCommit": false,
+  "vim.easymotion": true,
+  "vim.neovimPath": "/opt/homebrew/bin/nvim",
+  "vscode-neovim.neovimExecutablePaths.darwin": "/opt/homebrew/bin/nvim",
+  "vim.neovimConfigPath": "~/.config/nvim/init.lua",
+  "vscode-neovim.neovimInitVimPaths.darwin": "~/.config/nvim/init.lua",
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  }
 }
